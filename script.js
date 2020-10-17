@@ -29,13 +29,13 @@ function generatePassword() {
   var myNumber= false;
   for(;(myLower||myUpper||mySpecial)=== false;){
     alert("Al menos debes elegir una de las siguiente opciones:")
-    myLower = confirm("quieres que incluya minusculas? ")
+    myLower = confirm("Quieres que incluya minúsculas? ")
     console.log(myLower)
-    myUpper = confirm("quieres que incluya mayusculas? ")
+    myUpper = confirm("Quieres que incluya mayúsculas? ")
     console.log(myUpper)
-    mySpecial = confirm("quieres que incluya carácteres especiales? ")
+    mySpecial = confirm("Quieres que incluya carácteres especiales? ")
     console.log(mySpecial)
-    myNumber = confirm("quieres que incluya números? ")
+    myNumber = confirm("Quieres que incluya números? ")
     console.log(myNumber)
   }
   

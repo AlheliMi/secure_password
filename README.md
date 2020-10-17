@@ -34,25 +34,25 @@ THEN the password is written to the page
 
 The following images shows the web application's series of prompts, appearance and functionality in order to obtain the password:
 1.
-![password generator demo](02-Homework/Assets/length.png);
+![password generator demo](Assets/length.png);
 
 2.
-![password generator demo1](02-Homework/Assets/at_least.png);
+![password generator demo1](Assets/at_least.png);
 
 3.
-![password generator demo2](02-Homework/Assets/upper.png);
+![password generator demo2](Assets/upper.png);
 
 4.
-![password generator demo3](02-Homework/Assets/lower.png);
+![password generator demo3](Assets/lower.png);
 
 5.
-![password generator demo4](02-Homework/Assets/special.png);
+![password generator demo4](Assets/special.png);
 
 6.
-![password generator demo5](02-Homework/Assets/numbers.png);
+![password generator demo5](Assets/numbers.png);
 
 7.
-![password generator demo6](02-Homework/Assets/password.png);
+![password generator demo6](Assets/password.png);
 
 
 ## Credits 
